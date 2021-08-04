@@ -1,0 +1,34 @@
+﻿  User.cpp
+  Seller.cpp
+  product.cpp
+  Order.cpp
+  main.cpp
+  FeedBack.cpp
+  E-CommerceSystem.cpp
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(233): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(248): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(265): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(322): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(652): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(665): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(718): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(781): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(799): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(817): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(858): warning C4018: '<': signed/unsigned mismatch
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(864): warning C4018: '<': signed/unsigned mismatch
+  Date.cpp
+  BuyerAndSeller.cpp
+  Buyer.cpp
+  Address.cpp
+  Generating Code...
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(201): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(203): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(210): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(212): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(219): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(221): warning C4172: returning address of local variable or temporary
+c:\users\assaf test pc\desktop\my github projects\e-commerce system\project part3\e-commercesystem.cpp(226): warning C4172: returning address of local variable or temporary
+  Project part3.vcxproj -> C:\Users\Assaf Test PC\Desktop\my github projects\E-Commerce System\Debug\Project part3.exe
+  Project part3.vcxproj -> C:\Users\Assaf Test PC\Desktop\my github projects\E-Commerce System\Debug\Project part3.pdb (Full PDB)
